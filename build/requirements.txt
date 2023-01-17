@@ -1,0 +1,8 @@
+ffmpeg-python==0.2.0
+ipywidgets
+Cython
+tqdm
+numpy
+
+clearml==1.7.0
+boto3
